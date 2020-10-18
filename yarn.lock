@@ -1179,6 +1179,13 @@
   dependencies:
     mkdirp "^1.0.4"
 
+"@roomservice/browser@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@roomservice/browser/-/browser-2.0.2.tgz#4aab90fde34518be5d616fd97f7bc7e3bb6e8bef"
+  integrity sha512-cZhZIHKh5X52bW42B5yXWQpiDGEzPrGS6PZADHaGU8H/cUZHeGT7Ymx6M1S2An8rMeTsohUW2NZkInRsnGI7mA==
+  dependencies:
+    tiny-invariant "^1.1.0"
+
 "@types/json-schema@^7.0.3", "@types/json-schema@^7.0.5":
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
@@ -5707,6 +5714,11 @@ timers-browserify@^2.0.4:
   integrity sha512-60aV6sgJ5YEbzUdn9c8kYGIqOubPoUdqQCul3SBAsRCZ40s6Y5cMcrW4dt3/k/EsbLVJNl9n6Vz3fTc+k2GeKQ==
   dependencies:
     setimmediate "^1.0.4"
+
+tiny-invariant@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tiny-invariant/-/tiny-invariant-1.1.0.tgz#634c5f8efdc27714b7f386c35e6760991d230875"
+  integrity sha512-ytxQvrb1cPc9WBEI/HSeYYoGD0kWnGEOR8RY6KomWLBVhqz0RgTwVO9dLrGz7dC+nN9llyI7OKAgRq8Vq4ZBSw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
